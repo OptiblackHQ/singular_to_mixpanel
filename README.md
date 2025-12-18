@@ -1,4 +1,5 @@
 Overview
+
 What This Integration Does
 This server-side integration captures attribution data from Singular and sends it to Mixpanel as user properties and events. It provides accurate attribution tracking for both iOS and Android users.
 
@@ -35,3 +36,4 @@ AWS Lambda Function
 Mixpanel API
        ↓
 Mixpanel User Profile (updated)
+
