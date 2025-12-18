@@ -1,0 +1,11 @@
+{
+  "name": "singular-mixpanel-lambda",
+  "version": "1.0.0",
+  "description": "Singular to Mixpanel attribution integration",
+  "main": "index.js",
+  "scripts": {
+    "zip": "zip -r function.zip index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
